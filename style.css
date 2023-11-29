@@ -1,0 +1,380 @@
+
+.main{
+    background:url(kiakiaimages/home-page-new-carens-image\ \(2\).jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+       
+    width:100%;
+    height:100vh;
+}
+.navbar{
+    width:100%;
+    height:200px;
+    background-color:transparent;
+    border-bottom: .5px solid white;
+
+}
+.name{
+    color:white;
+    font-size: 40px;
+    list-style:none ;
+    padding-left:50px ;
+    margin: 40px;
+    font-style: normal;
+    font-weight: lighter;
+    font-family:sans-serif;
+    
+}
+ul{
+    display: flex;
+    color:black;
+
+}
+
+
+.name2{
+    color:white;
+    font-size: 40px;
+    list-style:none ;
+    padding-left:80px ;
+    margin-bottom:600px;
+    float:left;
+    font-style: normal;
+    font-weight: lighter;
+    font-family:sans-serif;
+
+
+  
+}
+.firstside{
+    
+    height:100px;
+}
+
+.middle{
+    width:30%;
+    height:100px;
+}
+
+.text{
+    color: rgb(214, 31, 31);
+
+}
+.second{
+    width:100%;
+    height:500px;
+}
+.photo2{
+    width:50%;
+    height:500px;
+}
+.text3{
+    color:black(255, 255, 255);
+    display: grid;
+    position: absolute;
+    justify-content: center;
+    bottom:0;
+    padding:50px ;
+}
+.thirdside ul{
+    width: 800px;
+    height:50px;
+   
+    float: right;
+    
+}
+
+.thirdside{
+    height: 100px;
+  
+    display: inline-block;
+    position: relative;
+    left: 1800px;
+    bottom: 70px;
+}
+.navbar:hover{
+    background-color:white;
+    color:black;
+
+}
+.downside{
+    height:fit-content;
+    position:absolute;
+    bottom:0;
+    left:900px;
+
+    
+}
+h1{
+    color:white;
+    font-size: 100px;
+    font-weight: bold;
+    font-style:normal;
+
+
+}
+h4{
+    color:white;
+    font-weight: lighter;
+    font-size:50px ;
+    text-align: center;
+   
+  
+}
+button{
+    color:white;
+    background-color: rgb(1, 1, 14);
+    text-align: center;
+    font-size: 50px;
+    position: absolute;
+    left:200px;
+    bottom: 0;
+
+}
+button:hover{
+    background-color:rgb(2, 2, 24) ;
+    
+}
+.secondpage{
+    background-color: aqua;
+    width:100%;
+    height:100vh;
+    display: flex;
+}
+.pictwo{
+     background:url("kiakiaimages/homepage-big-image-pc.jpg");
+    width:50%;
+    height: 100vh;
+    background-size: cover;
+}
+.words{
+    width:800px;
+    height:250px;
+    position: absolute;
+    left:50px;
+    margin-top:1000px ;
+
+}
+h2{
+    color: white;
+    font-size: 50px;
+    font-weight:lighter ;
+}
+p{
+    color: white;
+    font-size: 40px;
+}
+.total{
+    width:50%;
+    height:100vh;
+    background-color: black;
+
+}
+.one{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(7, 17, 17);
+    background-image:url("kiakiaimages/book-test.jpg") ;
+    background-size: cover;
+    float:left;
+}
+.two{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(7, 17, 17);
+    background-size:cover;
+    background-image:url("kiakiaimages/bookonline.jpg");
+    float:left;
+
+}
+.three{
+    width: 50%;
+    height: 50%;
+    background-image: url("kiakiaimages/Artboard4.jpg");
+    float: left;
+    background-size: cover;
+    
+}
+.four{
+    width: 50%;
+    height: 50%;
+    background-image: url("kiakiaimages/brochure.jpg");
+    background-size: cover;
+    float: left;
+
+}
+.footer{
+    width: 100%;
+    height:150vh;
+    background-color:rgb(0, 0, 26);
+    margin-top:1px;
+}
+.footerone{
+    width:25%;
+    height:80%;
+    position:absolute;
+    left:90px;
+    margin-top:200px;
+
+}
+.heads{
+    color:white;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: bold;
+
+}
+.footertwo{
+    width:16%;
+    height:80%;
+    position:absolute;
+    left:700px;
+    margin-top:200px;
+  
+
+}
+.headtwo{
+    color:rgb(146, 144, 144);
+    font-size:35px ;
+    font-weight: lighter;
+    font-style: initial;
+}
+.same{
+    color:white;
+    font-size:49px ;
+    font-style:inherit ;
+}
+.footerthree{
+    width:15%;
+    height:60%;
+    position: absolute;
+    left:1100px;
+    margin-top:200px ;
+
+}
+.footerfour{
+    width:12%;
+    height:50%;
+    position: absolute;
+    left:1600px;
+    margin-top:200px ;
+
+
+}
+.footerfive{
+    width:15%;
+    height:80%;
+    position: absolute;
+    left:2100px;
+    margin-top: 200px;
+
+
+}
+.social{
+    width:700px;
+    height:100px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-top:1300px;
+    left:100px;
+
+
+
+}
+.socialone{
+    width:12%;
+    height:100px;
+
+    text-align: center;
+}
+.socialtwo{
+    width:12%;
+    height:100px;
+    text-align: center;
+}
+.socialthree{
+    width:12%;
+    height:100px;
+    text-align: center;
+}
+.socialfour{
+    width:12%;
+    height:100px;
+    text-align: center;
+}
+.sentence{
+    width:900px;
+    height:50px;
+    position: absolute;
+    left:2100px;
+    margin-top:1700px;
+
+
+}
+.para{
+    color:rgb(117, 115, 115);
+    font-size:25px ;
+    font-style:normal;
+    font-weight:400;
+
+}
+.end{
+    width:80%;
+    height:100px;
+    position: absolute;
+    left:30%;
+    margin-top:1750px ;
+   
+    
+}
+.endline{
+    color:rgb(131, 128, 128);
+    font-size:25px;
+    font-style: normal;
+    font-weight: 400;
+}
+.home{
+    width:100px;
+    height:100px;
+    position: absolute;
+    left:100px;
+    margin-top:1750px ;
+}
+.home2{
+    font-size: 20px;
+    color:rgb(146, 143, 143);
+    font-weight:10px ;
+}
+.icon{
+    width:200px;
+    height:100px;
+    position: absolute;
+    left:48%;
+    top:0;
+}
+.iconkia{
+    width:450px;
+    height:200px;
+
+
+
+}
+
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+
+        
+
+
